@@ -37,6 +37,7 @@
     "coveralls": "cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "dependencies": {
+    "circular-json": "^0.5.5",
     "lodash": "^4.17.10",
     "stellar-sdk": "^0.8.2"
   }
